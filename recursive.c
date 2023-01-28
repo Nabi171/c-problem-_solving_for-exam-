@@ -9,5 +9,5 @@ int main()
     {
         f = f * i;
     }
-    printf("%1d", f);
+    printf("%d", f);
 }
